@@ -101,4 +101,6 @@ Execute the program
 </html>
 
 ~~~
-# OUPUTprgrom success
+# OUPUT
+![time table amar](https://user-images.githubusercontent.com/94165103/154828894-3e80810a-c523-41e4-bb1b-3b1e39b67689.png)
+
